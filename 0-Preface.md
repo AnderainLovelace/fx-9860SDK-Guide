@@ -15,7 +15,7 @@
 2.  分别输入工程路径，工程文件夹名，工程名称与版本号来创建新工程。  
 ![](./images/0/pic_new_project2.gif)    
 3.   SDK自动生成了一个显示文本的程序。点击***Project - Build***，或下方菜单栏的图标来组建工程。
-4.   点击***Project - Build***，或下方菜单栏的图标，或按***F5***来运行Add-in  
+4.   点击***Project - Run***，或下方菜单栏的图标，或按***F5***来运行Add-in  
 ![](./images/0/pic_new_project_sample.gif)    
 到此工程的建立完成，可以开始写代码了。  
 SDK的内置编辑器并不适合写代码（没有代码提示、没有高亮、没有自动缩进），可以选择Sublime、Notepad++或自己喜欢的编辑器来编写代码。  
